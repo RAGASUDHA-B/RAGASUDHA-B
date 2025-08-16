@@ -1,9 +1,10 @@
 # Hi there 👋, I'm Ragasudha  
 💻 Passionate about Fullstack development
-🌱 Currently learning
+
+
+##🌱 Currently learning
          👉flask
          👉Data structure and algorithm
-✨ I enjoy building projects and sharing knowledge here on GitHub
 
 
 
