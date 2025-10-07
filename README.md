@@ -10,8 +10,6 @@
 ##👩‍💻Problem solving 
       - To improve my logical thinking and problem solving skills ,I try to solve problems in leetcode,hackerrank and skillrack
       - Now I am exploring Tree and graph concepts in dsa
-          - ❤️i solved 50+ basic problems in hackerrank,30+ basic and dsa problems in geeksforgeeks,80+ dsa and algorithm related problems in leetcode
-      1000+ problems in skillrack 
       - For frontend challanges i daily explore and solve the challenges using the frontend mentor website to improve skills towards frontend development
       
 
