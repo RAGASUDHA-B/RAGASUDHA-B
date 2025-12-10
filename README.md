@@ -5,7 +5,6 @@
 ##🌱 Currently learning
          - 👉Data structure and algorithm
          - 👉MERN stack development
-         - 👉Data analyst
 
 ##👩‍💻Problem solving 
       - To improve my logical thinking and problem solving skills ,I try to solve problems in leetcode,hackerrank and skillrack
