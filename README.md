@@ -12,6 +12,6 @@
       
 
 ## 🛠️ Tech Stack
-- Languages: Python, Java, C, C++  
-- Web: HTML, CSS, JavaScript, React  
+- Languages: Python, Java, C, C++,solidity  
+- Web: HTML, CSS, JavaScript, React ,express js,node js,mongodb
 - Tools: Git, GitHub 
