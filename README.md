@@ -178,17 +178,6 @@ I regularly solve algorithmic challenges to enhance logical thinking and coding 
 
 ---
 
-## 💌 Let's Connect!
-
-I'm always interested in discussing exciting projects, learning opportunities, and new technologies.
-
-📧 **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-🐦 **Twitter:** [@YourHandle](https://twitter.com/your-handle)  
-🌐 **Portfolio Website:** [your-portfolio.com](https://your-portfolio.com)  
-🔗 **GitHub:** [@RAGASUDHA-B](https://github.com/RAGASUDHA-B)
-
----
 
 ## 🌟 Open To
 
@@ -202,9 +191,7 @@ I'm always interested in discussing exciting projects, learning opportunities, a
 
 <div align="center">
 
-**⭐ If you like my work, please consider giving a star to my repositories! ⭐**
-
-*Last Updated: June 2026 | Always learning and growing! 🚀*
+*Always learning and growing! 🚀*
 
 *"Code is poetry written for machines and humans alike."*
 
