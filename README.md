@@ -66,24 +66,6 @@ I build scalable web applications using modern technologies and explore emerging
 
 ## 🎯 Featured Projects
 
-### 🌐 [Webify - Online Code Editor](https://github.com/RAGASUDHA-B/Webify)
-A lightweight, interactive online code editor for HTML, CSS, and JavaScript with live preview.
-- **Tech Stack:** React, Monaco Editor, JavaScript
-- **Key Features:** Real-time code editing, instant preview, syntax highlighting, responsive design
-- **Status:** ✅ Completed | 🚀 [Live Demo](https://your-webify-deployment.com)
-
-### 🛋️ [Furnix - E-commerce Platform](https://github.com/RAGASUDHA-B/Furnix)
-Responsive web-based platform showcasing modern furniture and interior design solutions.
-- **Tech Stack:** React, Node.js, MongoDB, Express, CSS
-- **Key Features:** Product catalog, user-friendly navigation, responsive UI, efficient database management
-- **Status:** ✅ Completed | 🚀 [Live Demo](https://your-furnix-deployment.com)
-
-### 🔍 [GSoC Org Finder](https://github.com/RAGASUDHA-B/GSoC-Org-Finder)
-Smart tool to discover your perfect GSoC 2026 organization filtered by tech stack, language, and domain.
-- **Tech Stack:** React, JavaScript
-- **Key Features:** Filter 184+ organizations, no installation required, intuitive interface
-- **Status:** ✅ Completed | 🚀 [Live Tool](https://your-gsoc-finder-deployment.com)
-
 ### 💬 [MERN Todo Application](https://github.com/RAGASUDHA-B/mern_todo)
 Full-stack todo application demonstrating complete MERN stack capabilities.
 - **Tech Stack:** MongoDB, Express, React, Node.js
